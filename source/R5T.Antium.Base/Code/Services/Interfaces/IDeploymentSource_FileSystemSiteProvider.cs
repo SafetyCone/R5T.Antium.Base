@@ -8,7 +8,7 @@ namespace R5T.Antium
     /// <summary>
     /// Provides the deployment source file system site.
     /// </summary>
-    public interface IDeploymentSourceFileSystemSiteProvider
+    public interface IDeploymentSource_FileSystemSiteProvider
     {
         FileSystemSite GetDeploymentSourceFileSystemSite();
     }
